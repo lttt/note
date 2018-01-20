@@ -1,0 +1,44 @@
+BASE，CAP，
+（负载均衡方法）一次性哈希，
+哈希冲突扩容（解决哈希冲突效率问题）
+2n+1集群why？
+经典一致性协议
+
+
+递归的优化（使用栈）
+
+
+类加载的线程安全性
+打破双亲类加载机制
+
+类的内存分配：
+新生代 老生带的配置 启动JVM的
+CMS的回收过程
+java内存规范
+java栈内存分配方式
+DC  1.5之后没有问题（JVM做了哪些改进）
+lock 的实现方式 lock和synchronize的区别
+是否可重入
+java类库中的锁工具类
+
+unsafe java 调用受限（AQS）源码
+推荐书：深度理解Java虚拟机
+mysql 查看执行计划
+Java事务传播（Spring）了解
+
+spring aop 代理 默认生成代理类型（）cglib ？jdk？
+spring bean初始化过程
+
+spring扩展功能的配置（post processor等）
+spring依赖注入方式（set线程安全性）
+
+
+http URL长度的限制 GET／POST 协议的区别
+http 跨域访问的方式
+
+
+面向对象的基本原则
+
+
+filter servlet
+面向函数编程
