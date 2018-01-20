@@ -25,6 +25,7 @@ unsafe java 调用受限（AQS）源码
 推荐书：深度理解Java虚拟机
 mysql 查看执行计划
 Java事务传播（Spring）了解
+http://blog.csdn.net/jjavaboy/article/details/45243565
 
 spring aop 代理 默认生成代理类型（）cglib ？jdk？
 spring bean初始化过程
